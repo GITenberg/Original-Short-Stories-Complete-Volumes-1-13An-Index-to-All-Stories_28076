@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28076#Original-Short-Stories-Complete-Volumes-1-13An-Index-to-All-Stories
 gutenberg_issued: '2009-02-14'
 gutenberg_type: Text
 identifiers:
